@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=LAKA-MD-V2.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=LAKA-MD-V2.0.0" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='[https://i.ibb.co/HLBcwR8r/image-1743526150546.jpg'/></a>
+<a><img src='https://i.ibb.co/S7dLJ09m/image-1741156199535.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/lakaofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
@@ -54,7 +54,7 @@ You can deploy this bot for free on the following platforms:
 ---
 
 ###  Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/lakamdbot2025/lakamd)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md.git)
 
 ---
 
