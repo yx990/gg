@@ -1,0 +1,15 @@
+{
+  "bot-name": "LAKA-MD",
+  "description": "Laka Md in powerful WhatsApp Bot in Sri Lanka 🐣🪄💖",
+  "logo": "https://i.ibb.co/HLBcwR8r/image-1743526150546.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://aluthekahh-89fc1a32a575.herokuapp.com",
+  "owner-verification": "lakaofc@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your SESSION_ID here.",
+      "value": "",
+      "required": true
+    }
+  }
+}
