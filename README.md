@@ -53,7 +53,7 @@ You can deploy this bot for free on the following platforms:
 
 ---
 
-### Host.talkdrove.com  
+### talkdrove (Free Deploy )  
 [![Deploy](https://img.shields.io/badge/Deploy-TalkDrove-blue?logo=whatsapp)](https://host.talkdrove.com/share-bot/50)
 
 ---
