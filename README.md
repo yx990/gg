@@ -53,6 +53,11 @@ You can deploy this bot for free on the following platforms:
 
 ---
 
+### Host.talkdrove.com  
+[![Deploy](https://img.shields.io/badge/Deploy-TalkDrove-blue?logo=whatsapp)](https://host.talkdrove.com/share-bot/50)
+
+---
+
 ###  Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Anuwa666/gg)
 
